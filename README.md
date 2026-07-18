@@ -1,16 +1,21 @@
-## Hi there 👋
+# ✦ Behind the Work
 
-<!--
-**heymansirathi/heymansirathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! 👋
 
-Here are some ideas to get you started:
+If you're here from my portfolio, you've found the place where I document the work behind the work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you'll find expanded case studies, project documentation, dashboard concepts, articles, experiments, and ideas that shaped the final solutions.
+
+I hope you find something interesting.
+
+---
+
+### ✨ Explore
+
+🌐 **Portfolio**  
+https://mansirathi.framer.ai/
+
+💼 **LinkedIn**  
+https://www.linkedin.com/in/mansirathi/
+
+Thanks for stopping by! ☕
