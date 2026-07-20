@@ -6,7 +6,7 @@ If you're here from my portfolio, you've found the place where I document the wo
 
 Here you'll find expanded case studies, project documentation, dashboard concepts, articles, experiments, and ideas that shaped the final solutions.
 
-I hope you find something interesting.
+I hope you find something interesting!
 
 ---
 
